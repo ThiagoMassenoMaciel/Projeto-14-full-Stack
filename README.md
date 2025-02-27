@@ -46,7 +46,14 @@
 node_modules
 .env
 ```
-
+###### adicionar as duas pastas para o stage ```git add .```
+###### confirmar alterações ```git commit -m "Finesh Version 1.0"```
+###### agora o resto é linkar com o repositorio na nuvem
+```
+git remote add origin https://github.com/ThiagoMassenoMaciel/Projeto-13-full-Stack.git
+git branch -M main
+git push -u origin main
+```
 
 ### Hooks do react aprendidos
 ###### `useLocation` - identificar qual url da pagina carregada
