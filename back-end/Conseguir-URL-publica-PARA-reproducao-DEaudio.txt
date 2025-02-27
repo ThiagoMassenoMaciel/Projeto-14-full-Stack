@@ -1,0 +1,14 @@
+possíveis servidores como Amazon S3, Google Cloud Storage ou Firebase Storage.
+
+amazona tem coisas de graça BD é 25GB  de graça 
+https://aws.amazon.com/pt/free/?all-free-tier.sort-by=item.additionalFields.SortRank&all-free-tier.sort-order=asc&awsf.Free%20Tier%20Types=tier%23always-free&awsf.Free%20Tier%20Categories=*all
+
+Serviços de armazenamento em nuvem dedicados oferecem melhor desempenho Para hospedar arquivos de áudio para um aplicativo de streaming
+
+Gere URLs públicas para cada arquivo
+
+como e aonde eu posso armazenar gratuitamente arquivos de audio para eu poder ter url fixa de cada áudio que seja url pública para reprodução, justamente  para usar em um projeto fullstack ? pois pretendo usar a url destes audios para fazer um projeto parecido com o spotify. De todas as opções que você me sugerir especifique os limites de memória de processamento, memoria de armazenamento, requisições permitidas
+
+tem alguma maneira de hospedar de graça arquivos de audio para streaming público em larga escala ?
+
+tem alguma maneira de hospedar de graça arquivos de audio para streaming público em urls públicas ?
