@@ -19,7 +19,7 @@
 ###### `Back-end`
 ###### ambiente de execução [node.js]()
 ###### framework para back-end [express.js]()
-###### lib p/ driver conectar mongoDB com código back-end [mongodb](https://medium.com/@omalearumona/connecting-express-js-to-mongodb-a-step-by-step-guide-258172d2b27a)
+###### lib p/ driver conectar mongoDB com código back-end [mongodb](https://medium.com/@omalearumona/connecting-express-js-to-mongodb-a-step-by-step-guide-258172d2b27a) [`MongoClient`](https://www.mongodb.com/developer/languages/javascript/node-connect-mongodb/?msockid=1442babbd3c0604712dea855d2166138) [+docs ](https://www.mongodb.com/pt-br/docs/drivers/node/current/)
 ###### pacote para gerenciar melhor o path de respostas do server.js estáticas `npm i path` [`path.resolve()`](https://www.geeksforgeeks.org/node-js-path-resolve-method/) [`path.join()`](https://nodejs.org/api/path.html#pathjoinpaths)
 ###### Banco de dados : [MongoDB]() [crud_docs](https://www.mongodb.com/pt-br/docs/manual/crud/)
 
