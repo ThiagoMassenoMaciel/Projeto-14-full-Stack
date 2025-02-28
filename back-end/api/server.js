@@ -27,16 +27,16 @@ app.use(cors())
 //ENdpoint é uma rota que pode ser acessada da API
 
 //Se receber uma requisição GET no endpoint "/especificado" executar a callFunction
-app.get("/", (request, response)=>{
+app.get("/api/", (request, response)=>{
   //o que vai retornar como resposta do servidor
   response.send("Olá Mundo, tudo bom")
 })
 
-app.get("/artists", async (request, response)=>{
+app.get("/api/artists", async (request, response)=>{
   response.send(await db.collection('artists').find({}).toArray()) // fez uma promessa de que vai la no banco de dados , procurar pela collection especificada e vai fazer uma pesquisa para retornar todos os objetos da collection no formato JSON
 })
 
-app.get("/songs", async (request, response)=>{
+app.get("/api/songs", async (request, response)=>{
   response.send(await db.collection('songs').find({}).toArray())
 })
 
