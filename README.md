@@ -6,6 +6,7 @@
 
 ### Deploy 
 ###### front-end e back-end dentro do mesmo repositório github hospedados no [render](https://render.com/)
+###### outras maneiras de fazer deploy [link1](https://youtu.be/cVEOhgPziO8?si=p6U6yiWl0zHKndp8) [link2](https://youtu.be/ZsFwpjFmpFQ?si=Zpjmop74HP3UDxRv)
 
 ### Technologias
 ###### `Front-end`
