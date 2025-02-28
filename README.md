@@ -1,5 +1,5 @@
 ### Deploy 
-###### [render](https://render.com/)
+###### front-end e back-end dentro do mesmo repositório github hospedados no [render](https://render.com/)
 
 ### Technologias
 ###### `Front-end`
@@ -7,7 +7,7 @@
 ###### [vite.js]()
 ###### lib p/ fazer requisiçãod do front [axios]()
 ###### lib p/ fazer midleware [cors]()
-###### lib p/ gerenciar variaveis de ambiente para deploy [dotenv]()
+###### lib p/ gerenciar variaveis de ambiente para deploy [dotenv]() VAI TER QUE DESFAZER USO DESTA LIB
 
 ###### `Back-end`
 ###### ambiente de execução [node.js]()
