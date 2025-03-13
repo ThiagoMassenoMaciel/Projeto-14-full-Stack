@@ -282,3 +282,13 @@ function App() {
 //agora
 <Link to="/path"></Link>
 ```
+####### Primeiro assisti toda as Aulas antes de programar
+####### Aula 1 - 3h52'
+####### Aula 2 - 4h55'
+####### Aula 3 - 9h
+####### Aula 4 - 9h23'
+####### Aula deploy - 10h40'
+####### Aula complementar 1 - 8h45'
+####### Aula complementar 2 - 5h
+####### Aula complementar 3 - 5h22'
+### Precisei 57h1' para estudar este projeto
