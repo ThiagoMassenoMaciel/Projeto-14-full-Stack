@@ -3,6 +3,7 @@
 ![image-10](https://github.com/user-attachments/assets/9c9cfcc9-4360-4f50-9df5-65f7c117c7b6)
 ![image-11](https://github.com/user-attachments/assets/985f0d85-6761-4c65-8f1c-c3571c7414c0)
 ###### imagens geradas no [shots.so](https://shots.so/)
+###### mais detalhes do CSS usado neste projeto [link para outro repositorio](https://github.com/ThiagoMassenoMaciel/Projeto-14-full-Stack-CSS)
 
 ### Deploy 
 ###### front-end e back-end dentro do mesmo repositório github hospedados no [render](https://render.com/)
